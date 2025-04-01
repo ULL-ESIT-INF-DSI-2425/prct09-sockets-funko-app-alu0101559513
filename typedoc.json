@@ -1,0 +1,4 @@
+{
+  "entryPoints": ["src/ejercicio-clase/*.ts"],
+  "out": "./docs"
+}

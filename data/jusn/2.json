@@ -1,0 +1,12 @@
+{
+  "ID": 2,
+  "nombre": "Marvel",
+  "descripcion": "The best Sonic Funko ever",
+  "tipo": "Pop!",
+  "genero": "Games",
+  "franquicia": "Sonic the Hedgehog",
+  "numeroFranquicia": 1,
+  "exclusivo": true,
+  "caracteristicasEspeciales": "colors",
+  "valorDeMercado": 100
+}
